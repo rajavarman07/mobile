@@ -1,0 +1,41 @@
+
+ img{
+   width: 30%;
+   margin-top: 15vh;
+   margin-left: 15vh;
+    
+} 
+div {
+    display: inline-block;
+vertical-align: top;
+padding-left: 100px;
+padding-top: 100px;
+padding-top: 150px;
+font-family: "Space Mono", monospace;
+
+
+
+}
+h2{
+    font-size: 45px;
+}
+footer{
+    text-align: center;
+    margin-top: 200px;
+  color: rgb(64, 62, 62);
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 6px;
+   
+
+}
+  header h4{
+    font-family: "Inconsolata", monospace;
+    margin-left: 5vh;
+    margin-top: 3vh;
+  }
+  
+   
+   
